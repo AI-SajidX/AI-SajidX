@@ -1,7 +1,8 @@
+
 <!--
   GITHUB PROFILE README
   Theme: Black + Neon Green
-  Profile: AI-Sajid10
+  Profile: AI-SajidX
 -->
 
 <div align="center">
@@ -12,12 +13,11 @@
 
 <br/>
 
-<a href="https://github.com/AI-Sajid10"><img src="https://img.shields.io/badge/GITHUB-AI--Sajid10-39D98A?style=for-the-badge&logo=github&logoColor=39D98A&labelColor=101401" alt="GitHub"/></a>
+<a href="https://github.com/AI-SajidX"><img src="https://img.shields.io/badge/GITHUB-AI--SajidX-39D98A?style=for-the-badge&logo=github&logoColor=39D98A&labelColor=101413" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/ahmed-ibrahim-sajid/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-39D98A?style=for-the-badge&logo=linkedin&logoColor=39D98A&labelColor=101413" alt="LinkedIn"/></a>
 <a href="mailto:ahmedibrahimsajid@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-39D98A?style=for-the-badge&logo=gmail&logoColor=39D98A&labelColor=101413" alt="Email"/></a>
-<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AI-Sajid10&style=flat-square&color=00aa55&label=PROFILE+VIEWS" alt="Profile Views"/>
+<br/><br/>
 
 </div>
 
@@ -52,7 +52,7 @@ I enjoy building interactive web applications, solving programming problems, and
 
 ```yaml
 name: Ahmed Ibrahim Sajid
-username: AI-Sajid10
+username: AI-SajidX
 education: CSE Undergraduate
 university: IIUC
 country: Bangladesh
@@ -71,7 +71,7 @@ goal: Full-Stack Developer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0d,50:004d26,100:00aa55&height=55&text=02.%20%2F%2F%20TECH_STACK&fontColor=00FF66&fontSize=24&fontAlign=50&fontAlignY=55" width="100%" alt="Tech Arsenal Section Header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0d,50:004d26,100:00aa55&height=55&text=02.%20%2F%2F%20TECH_STACK&fontColor=00FF66&fontSize=24&fontAlign=50&fontAlignY=55" width="100%" alt="Tech Stack Section Header"/>
 
 <br/>
 
@@ -260,7 +260,7 @@ A healthcare platform concept focused on patient services, hospital resources, a
 
 <div align="center">
 
-[![All Repositories](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=050505)](https://github.com/AI-Sajid10?tab=repositories)
+[![All Repositories](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=050505)](https://github.com/AI-SajidX?tab=repositories)
 
 </div>
 
@@ -272,12 +272,12 @@ A healthcare platform concept focused on patient services, hospital resources, a
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AI-Sajid10&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF66&icon_color=00FF66&text_color=E5E5E5&ring_color=00FF66" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Sajid10&layout=compact&hide_border=true&bg_color=050505&title_color=00FF66&text_color=E5E5E5" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AI-SajidX&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF66&icon_color=00FF66&text_color=E5E5E5&ring_color=00FF66" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-SajidX&layout=compact&hide_border=true&bg_color=050505&title_color=00FF66&text_color=E5E5E5" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=AI-Sajid10&theme=dark&hide_border=true&background=050505&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="GitHub Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=AI-SajidX&theme=dark&hide_border=true&background=050505&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -355,7 +355,7 @@ Strengthen backend and database skills
 
 **Have an idea, project, or opportunity? Let's connect.**
 
-<a href="https://github.com/AI-Sajid10"><img src="https://img.shields.io/badge/GitHub-Follow-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=050505" alt="GitHub"/></a>
+<a href="https://github.com/AI-SajidX"><img src="https://img.shields.io/badge/GitHub-Follow-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=050505" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/ahmed-ibrahim-sajid/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FF66?style=for-the-badge&logo=linkedin&logoColor=00FF66&labelColor=050505" alt="LinkedIn"/></a>
 <a href="mailto:ahmedibrahimsajid@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-00FF66?style=for-the-badge&logo=gmail&logoColor=00FF66&labelColor=050505" alt="Email"/></a>
 
